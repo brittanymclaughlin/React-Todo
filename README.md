@@ -53,7 +53,7 @@ We're going to practice building a stateful class component with this project. E
   - Your input field should take in user input, and allow a user to press `Enter` or click on the `Submit Button` to add a todo to your list.
   - Once a todo is submitted, the Todo List should re-render and show the added todo.
 
----
+--- 
 
 - Add the functionality to toggle your todo's completed flag from `false` to `true`.
   - Once a todo is completed, be sure to demonstrate to the user that the todo is completed by adding a line-through style property if the completed flag is true.
@@ -77,3 +77,11 @@ The completion of these questions is mandatory for MVP. However, passing the qui
 ## Submission Format
 * [ ] Submit a Pull-Request to merge `<firstName-lastName>` Branch into `main` (student's  Repo). **Please don't merge your own pull request**
 * [ ] Fill out your module retrospective form [here](https://forms.lambdaschool.com/module-retrospective) with a link to your PR
+
+
+
+
+font-family: 'Galada', cursive;
+font-family: 'Lato', sans-serif;
+font-family: 'Sedgwick Ave Display', cursive;
+font-family: 'Shadows Into Light', cursive;

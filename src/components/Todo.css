@@ -1,0 +1,10 @@
+.task.completed {
+    background:linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(5,100,190,1) 50%, rgba(5,152,33,1) 100%);;
+    text-decoration: line-through;
+}
+
+body{
+    background: rgb(131,58,180);
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(5,100,190,1) 50%, rgba(5,152,33,1) 100%);
+    font-family: 'Shadows Into Light', cursive;
+}
